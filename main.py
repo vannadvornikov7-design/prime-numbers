@@ -31,4 +31,4 @@ assert fermat_test(1298074214633706835075030044377087, 2) == True
 assert fermat_test(359334085968622831041960188598043661065388726959079837, 2) == True
 assert fermat_test(561, 2) == True
 
-print("All tests passed!")
+print("I will kill you")

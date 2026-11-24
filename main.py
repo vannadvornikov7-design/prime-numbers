@@ -32,3 +32,4 @@ assert fermat_test(359334085968622831041960188598043661065388726959079837, 2) ==
 assert fermat_test(561, 2) == True
 print("pirate token")
 print("I will kill you")
+print("bugagagagag")
